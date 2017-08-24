@@ -2,7 +2,7 @@
 
 ## Feedback:
 
-1 – Instant Answers 
+1 – Instant Answers   
 This initiative [https://duck.co/ia](https://duck.co/ia) is not easy accessible from DuckDuckHack [https://duckduckhack.com](https://duckduckhack.com).
 
 Its web page does not provide instant information to a newcomer about what is a "New Instant Answer", it also does not provide any motives to join the cause.
@@ -161,3 +161,5 @@ Work with front-end and community team (time: 1 week, plus some time for A/B tes
 I hope to make one of these contributions reality soon!
 
 Thanks for your time.
+
+
