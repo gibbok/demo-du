@@ -17,7 +17,7 @@ I found "Instant Answers" mainly targeting developers excluding a less technical
 
 1.3 – Add more step by step tutorials and walk-troughs. Creating a dedicated tutorial video section.
 
-1.4 – Allow developer to create Instant Answers using different programming languages, as example JavaScript/ES6, TypeScript and Node.js at the Back-End. Interesting [trends]( https://trends.google.com/trends/explore?q=%2Fm%2F0bbxf89,%2Fm%2F0n50hxv,Babel,%2Fm%2F0j45p7w,%2Fm%2F012l1vxv).
+1.4 – Allow developers to create "Instant Answers" using different programming languages, as example JavaScript/ES6, TypeScript and Node.js at the Back-End. Interesting [trends]( https://trends.google.com/trends/explore?q=%2Fm%2F0bbxf89,%2Fm%2F0n50hxv,Babel,%2Fm%2F0j45p7w,%2Fm%2F012l1vxv).
 
 1.5 – Introducing support for JavaScript ES6, TypeScript, React, JSX for front-end files for Spice and Goodie Instant Answers. In production, user code could be automatically transpiled using Babel.js or similar. 
 
@@ -36,7 +36,7 @@ Possible variants:
 
 2.1.1 – Simple 
 
-The user selects from different pre-made templates and connect the template to a data source (API) using a walk-through Wizard user interface.  
+The user selects from different pre-made templates and connect the template to a data source (API) using a walk-through wizard user interface.  
 The number of customization is limited, no drag and drop features.
 
 2.1.2 – Complex
@@ -93,7 +93,7 @@ Although more issues are visible in their repositories on GitHub, I think they s
 
 ### 5 – DuckDuckGo API 
 
-Across DuckDuckHack I see a lack of promotion for the DuckDuckGo API. A better promotion attracts more developers to the community and possibly more interest in the "Instant Answer" initiative. I would also add more example of API usage to facilitate new comers.
+Across DuckDuckHack I see a lack of promotion for the DuckDuckGo API. A better promotion attracts more developers to the community and possibly more interest in the "Instant Answer" initiative. I would also add more example of API usage to facilitate newcomers.
 
 #### Suggestions:
 
@@ -130,16 +130,16 @@ I have significant experience in developing WYSIWYG editors and I believe that t
 I would be interested in exploring the usage of a VPL solution.
 
 - *Allow developer to create Instant Answers using different programming language example JavaScript at the Back-End*.  
-I have experience in ES6, introducing new features of JavaScript could enrich the developers experience and interests (although I would maintain compatibility using a transpiler).
+I have experience in ES6 and its related ecosystem, introducing new features of JavaScript could enrich the developers experience and interest (although I would maintain compatibility using a transpiler).
 
 - *Improving content information on the landing page*.  
-I could collaborate with your marketing and design team to enhance DuckDuckHack  communication effort with the community, taking responsibility also for the coding part. 
+I could collaborate with your marketing and design team to enhance DuckDuckHack  communication effort with the community, taking responsibility also for code update part. 
 
 - *Support better localization and globalization*.  
 I could help with coding on localized templates with Handlebars.
 
 - *Open Tasks table*.  
-I think it is important to provide new comers easy to use and meaningful information. I could work with your team in designing and coding a new Open Tasks table.
+I think it is important to provide newcomers easy to use and meaningful information. I could work with your team in designing and coding a new Open Tasks table.
 
 ## Project plan:
 
@@ -156,10 +156,8 @@ Work with marketing, designer, front-end and community team leader in the creati
 Work with front and back-end developers to understand if this feature is doable with the current infrastructure, gathering, implementation (time: hard to estimate 2 weeks).
 
 - *Open Tasks table*.  
-Work with front-end and community team (time: 1 week, plus some time for A/B tests).
+Work with front-end and community teams (time: 1 week, plus some time for A/B tests).
 
 I hope to make one of these contributions reality soon!
 
 Thanks for your time.
-
-
