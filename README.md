@@ -2,14 +2,14 @@
 
 ## Feedback:
 
-1 – Instant Answers   
+### 1 – Instant Answers   
 This initiative [https://duck.co/ia](https://duck.co/ia) is not easy accessible from DuckDuckHack [https://duckduckhack.com](https://duckduckhack.com).
 
 Its web page does not provide instant information to a newcomer about what is a "New Instant Answer", it also does not provide any motives to join the cause.
 
 I found "Instant Answers" mainly targeting developers excluding a less technical audience. 
 
-### Suggestions:
+#### Suggestions:
 
 1.1 – Improve content information on the landing page for "Instant Answers", increasing its visibility across DuckDuckHack.
 
@@ -26,7 +26,7 @@ I found "Instant Answers" mainly targeting developers excluding a less technical
 1.7 – Support better localization and globalization for "Instant Answers" and push DuckDuckHack internationally.
 At template level, it can be achieved using a [I18n.js](https://github.com/fnando/i18n-js) or [i18next](https://www.i18next.com/) plugins (to be evaluated more) or a custom vanilla solution.
 
-2 – Expanding "Instant Answers" to a less technical oriented audience (not only to developers).
+### 2 – Expanding "Instant Answers" to a less technical oriented audience (not only to developers).
 
 2.1 – This can be achieved by simplifying the "Instant Answers" creation process, including the prototyping phase, using a WYSIWYG editor. Similar to online software as [webflow](https://webflow.com) or [jetstrap](https://jetstrap.com/demo).
 
@@ -48,7 +48,7 @@ The number of customization is wider, drag and drop features and undo/redo could
 
 A VPL (visual programming language) lets users create "Instant Answers" by manipulating program elements graphically rather than by specifying them textually in code, for example, using dataflow or diagrammatic programming which is based on the idea of "boxes and arrows", where boxes or other screen objects are treated as entities, connected by arrows, lines which represent relations. The output is runnable source code to be used in production.
 
-3 - "Become a Leader" Initiative: 
+### 3 - "Become a Leader" Initiative: 
 
 Web Pages:
 
@@ -65,7 +65,7 @@ I notice also that the "Programming Mission" is currently close, but still is be
 
 In my opinion the "Become a Leader" initiative looks and interesting opportunity to acquire experts and at the same time to spread knowledge of DuckDuckGo mission among developers.
 
-### Suggestions:
+#### Suggestions:
 
 3.1 – Re-open the initiative.
 
@@ -77,13 +77,13 @@ In my opinion the "Become a Leader" initiative looks and interesting opportunity
 
 3.5 – Online public voting from the community together with mini competitions could be a democratic way to select a leader.
 
-4 – Open Tasks table:
+### 4 – Open Tasks table:
 
 The Open Tasks table visible at [https://duckduckhack.com/issues.html](https://duckduckhack.com/issues.html) contains only "Highest Impact Tasks". The tasks length listed are considerable and the page provides only a limited overview of the different tasks.
 
 In my opinion the page is discouraging new developers to join the community (the bounce rate as analytic could be an interested value to observe).
 
-### Suggestions:
+##### Suggestions:
 
 4.1 – A brief task overview, organized by technologies, example: tasks related to JavaScript, CSS, HTML and so on.
 
@@ -91,11 +91,11 @@ In my opinion the page is discouraging new developers to join the community (the
 
 Although more issues are visible in their repositories on GitHub, I think they should be organized into levels of difficulty and technologies so that newcomers know which issues would be best for them to start off with.
 
-5 – DuckDuckGo API 
+### 5 – DuckDuckGo API 
 
 Across DuckDuckHack I see a lack of promotion for the DuckDuckGo API. A better promotion attracts more developers to the community and possibly more interest in the "Instant Answer" initiative. I would also add more example of API usage to facilitate new comers.
 
-### Suggestions:
+#### Suggestions:
 
 5.1 – Add promotional information for DuckDuckGo API in DuckDuckHack.
 
@@ -103,9 +103,9 @@ Across DuckDuckHack I see a lack of promotion for the DuckDuckGo API. A better p
 
 5.3 – Add mini case studies of successful projects based on DuckDuckGo API to be also promoted on DuckDucHack (to inspire developers).
  
-6 – Community promotion
+### 6 – Community promotion
 
-### Suggestions:
+#### Suggestions:
 
 6.1 – Create and run contests to gamify the contribution process.
 
