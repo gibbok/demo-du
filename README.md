@@ -148,7 +148,7 @@ Work with DuckDuckGo team members (developers, product owners, UX designers) to 
 Work with front and back-end developers to understand the technicality involved and implement a solution (time: hard to estimate 2-3 weeks).
 
 - *Improving content information on the landing page*.  
-Work with marketing, designer, front-end and community team leader in the creation and revision of content and editing of web pages (time: 1 week, plus some time for A/B tests).
+Work with marketers, designers, developers and community team leaders in the creation and revision of content and editing of web pages (time: 1 week, plus some time for A/B tests).
 
 - *Support better localization and globalization*.  
 Work with front and back-end developers to understand if this feature is doable with the current infrastructure, gathering, implementation (time: hard to estimate 2 weeks).
