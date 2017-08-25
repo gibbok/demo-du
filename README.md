@@ -99,7 +99,7 @@ Across DuckDuckHack I see a lack of promotion for the DuckDuckGo API. A better p
 
 5.1 – Add promotional information for DuckDuckGo API in DuckDuckHack.
 
-5.2 – Add interactive example of API usage, similar to the API Stack Exchange, where a developer can play in real time with the API or introduce an online interpreter, similar to [Babel Repl](https://babeljs.io/repl).
+5.2 – Add interactive examples of API usage, similar to the API Stack Exchange, where a developer can play in real time with the API or introduce an online interpreter, similar to [Babel Repl](https://babeljs.io/repl).
 
 5.3 – Add mini case studies of successful projects based on DuckDuckGo API to be also promoted on DuckDucHack (to inspire developers).
  
