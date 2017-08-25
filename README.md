@@ -52,7 +52,7 @@ A VPL (visual programming language) lets users create "Instant Answers" by manip
 
 Web Pages:
 
-[https://duckduckhack.com](https://duckduckhack.com])
+[https://duckduckhack.com](https://duckduckhack.com)
 
 [https://forum.duckduckhack.com/t/looking-for-language-leaders/803](https://forum.duckduckhack.com/t/looking-for-language-leaders/803)
 
