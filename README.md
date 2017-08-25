@@ -119,9 +119,7 @@ New contributors should be able to more easily start their efforts, I believe mo
 
 The number of developers (data from GitHub) is interesting, still acquiring and retain active developers on the project is an important aspect.
 
-I found in the current approach a lack of rewards to the developers for their effort within the community.
-
-I would definitely give contributors more recognition for their time in the community.
+I found in the current approach a lack of rewards to the developers for their effort within the community. I would definitely give contributors more recognition for their time in the community.
 
 ## Contributions I would like to work on:
 
