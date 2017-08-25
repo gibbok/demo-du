@@ -93,7 +93,7 @@ Although more issues are visible in their repositories on GitHub, I think they s
 
 ### 5 – DuckDuckGo API 
 
-Across DuckDuckHack I see a lack of promotion for the DuckDuckGo API. A better promotion attracts more developers to the community and possibly more interest in the "Instant Answer" initiative. I would also add more example of API usage to facilitate newcomers.
+Across DuckDuckHack I see a lack of promotion for the DuckDuckGo API. A better promotion attracts more developers to the community and possibly more interest in the "Instant Answer" initiative. I would also add more examples of API usage to facilitate newcomers.
 
 #### Suggestions:
 
